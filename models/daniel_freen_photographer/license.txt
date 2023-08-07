@@ -1,0 +1,11 @@
+Model Information:
+* title:	Daniel Freen ~Photographer
+* source:	https://sketchfab.com/3d-models/daniel-freen-photographer-5429c5c1852e47b3bacf1f1e52d5e50b
+* author:	PHORIA - TCDC (https://sketchfab.com/scann3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Daniel Freen ~Photographer" (https://sketchfab.com/3d-models/daniel-freen-photographer-5429c5c1852e47b3bacf1f1e52d5e50b) by PHORIA - TCDC (https://sketchfab.com/scann3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

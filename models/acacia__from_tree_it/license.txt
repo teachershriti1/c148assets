@@ -1,0 +1,11 @@
+Model Information:
+* title:	Acacia ( From "Tree It")
+* source:	https://sketchfab.com/3d-models/acacia-from-tree-it-350e77196b424ebc8d28b8e7fc7b509e
+* author:	Paul (Sketchfab) (https://sketchfab.com/paul_sketch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Acacia ( From "Tree It")" (https://sketchfab.com/3d-models/acacia-from-tree-it-350e77196b424ebc8d28b8e7fc7b509e) by Paul (Sketchfab) (https://sketchfab.com/paul_sketch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
